@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'wagtail.admin',
     'wagtail.core',
     'wagtailmedia',
+    'wagtailfontawesome',
     'modelcluster',
     'taggit',
 
