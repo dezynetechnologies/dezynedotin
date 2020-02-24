@@ -26,6 +26,10 @@ BASE_DIR = os.path.dirname(PROJECT_DIR)
 INSTALLED_APPS = [
     'home',
     'search',
+    'dezynedotin.base',
+    'dezynedotin.blog',
+    'dezynedotin.breads',
+    'dezynedotin.locations',
     'wagtail.contrib.forms',
     'wagtail.contrib.redirects',
     'wagtail.embeds',
